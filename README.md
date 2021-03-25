@@ -1,3 +1,7 @@
+<img width="1584" alt="Screen Shot 2021-03-24 at 9 14 36 PM" src="https://user-images.githubusercontent.com/79947732/112418102-1c4b5d80-8ce6-11eb-818a-4d80c36c40a6.png">
+<img width="1585" alt="Screen Shot 2021-03-24 at 9 15 01 PM" src="https://user-images.githubusercontent.com/79947732/112418106-1e152100-8ce6-11eb-8e36-dbdcc93bb913.png">
+<img width="1582" alt="Screen Shot 2021-03-24 at 9 15 13 PM" src="https://user-images.githubusercontent.com/79947732/112418110-21101180-8ce6-11eb-87b9-5f2fd95a74e6.png">
+
 Horiseon Code Refactor (Challenge 1)
     Notes:
 - added alt attributes to all images - (semi) important ones containing a description, 3 logo images on the side left empty
