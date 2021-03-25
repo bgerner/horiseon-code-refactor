@@ -6,3 +6,5 @@ Horiseon Code Refactor (Challenge 1)
 - removed preceding “benefit-” from lead, brand, and cost tags in the <aside class=”benefits”> section to avoid potential confusion from repetition of the word “benefit(s)”
 - gave each sentence of main p text its own line in HTML
 - changed div class=”hero” to span class=”hero” because it’s one line
+
+Link: https://bgerner.github.io/horiseon-code-refactor/
